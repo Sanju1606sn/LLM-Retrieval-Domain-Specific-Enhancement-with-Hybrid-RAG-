@@ -27,8 +27,3 @@ This project explores **Retrieval-Augmented Generation (RAG)** to mitigate **LLM
 - **Cross-encoder > Bi-encoder > BM25** in retrieval accuracy.  
 - **Fine-tuned LLM with RAG** outperformed both standalone fine-tuned LLMs and vanilla LLM+RAG.
 
-## ▶️ Usage
-```bash
-git clone https://github.com/TrivikramUmanath/LLM-RAG.git
-cd LLM-RAG
-jupyter notebook
